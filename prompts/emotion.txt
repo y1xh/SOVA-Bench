@@ -1,0 +1,5 @@
+The following paragraph contains the model's prediction of the speaker's emotion based on the audio. 
+
+Refine the model's answer based on the its output. The options are: 'Frustrated and sad',' Excited and surprised', 'Angry', 'Happy', 'Fearful', or 'None' (for cases that do not meet either option), with no additional text.
+
+**[Passage]: {prediction}

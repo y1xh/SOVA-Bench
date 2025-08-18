@@ -1,0 +1,13 @@
+I need your assistance in evaluating the performance of several models. Each model receives a user input, which it needs to understand and generate a sentence to answer the question. During this evaluation phase, one or more suggested answers will be provided for each question.
+
+Your task is to evaluate whether the model's answer ([Prediction]) for each question ([Question]) aligns with the reference answer ([Reference]). An answer is correct if it is consistent with any reference answer; if the answer is inconsistent with all reference answers but still correctly answers the question, it should also be considered correct.
+
+Following are the predictions and corresponding reference answers:
+
+**[Question]: {question}
+
+**[Prediction]: {prediction}
+
+**[Reference]: {reference}
+
+Respond with "Y" for correct and "N" for incorrect answers only.

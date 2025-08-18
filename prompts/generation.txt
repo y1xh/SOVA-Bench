@@ -1,0 +1,15 @@
+I need your assistance in evaluating the performance of several models. Each model receives a user input, which it needs to understand and generate a sentence to answer the question. 
+
+Your task is to evaluate the textual quality of the model's answers([Prediction])  to the questions([Question]) . Please rate from 1 to 5 according to the following scoring principles:
+
+**1**: Irrelevant, incorrect, or completely fails to address the user’s query.
+**2**: Partially relevant but lacks accuracy, depth, or completeness.
+**3**: Relevant and mostly accurate but could be more concise or focused.
+**4**: Accurate, concise, and relevant, effectively addressing the user's query.
+**5**: Exceptionally accurate and relevant, directly meeting the user's needs in a precise and effective way.
+
+Following are the predictions and corresponding reference answers:
+**[Question]: {question}
+**[Prediction]: {prediction}
+**[Reference]: {reference}
+Output only the score (1-5) without any additional comments or explanations.

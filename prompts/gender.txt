@@ -1,0 +1,3 @@
+Based on the given passage, determine the speaker's gender: male, female, or no gender. Please output only 'Male', 'Female', or 'No gender', with no additional text.
+
+**[Passage]: {prediction}
