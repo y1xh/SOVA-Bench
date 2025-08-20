@@ -2,7 +2,7 @@
 
 This repo contains the code of: [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/pdf/2506.02457)
 
-(SOVA_Bench dataset will be released soon.)
+SOVA_Bench dataset：https://huggingface.co/datasets/yixuan123/SOVA-Bench_Dataset
 
 ## Table of Contents
 - [**Jsons**](#jsons)
