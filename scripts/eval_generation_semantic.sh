@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Set proxy environment variables
-export http_proxy=http://127.0.0.1:7892
-export https_proxy=http://127.0.0.1:7892
-export HTTP_PROXY=http://127.0.0.1:7892
-export HTTPS_PROXY=http://127.0.0.1:7892
-
 # Define logging functions
 log_info() {
     echo -e "\033[1;32m[$(date '+%Y-%m-%d %H:%M:%S')] INFO: $1\033[0m"
@@ -51,8 +45,8 @@ run_python_script "./utils/model_eval.py" \
   --input_file "./results/example/inputs/generation.json" \
   --output_file "./results/example/eval_outputs/generation.json" \
   --prompt_file "./prompts/generation.txt" \
-  --api_key "" || exit 1
-
+  --api_key "your openai api key here" || exit 1
+  
 # Execute result reading script (adjusted to match parameter format)
 run_python_script "./utils/read_result_generation.py" \
   --input_file "./results/example/eval_outputs/generation.json" || exit 1

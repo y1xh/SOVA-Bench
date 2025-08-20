@@ -1,0 +1,26 @@
+[
+    {
+        "id": "librisqa_0000", 
+        "question": "Why were the individuals sauntering leisurely along the road at eleven o'clock on a fine clear night?",
+        "prediction": "The correct answer is B: They were avoiding the crowds in the valley or on the banks of the river.",
+        "answer": 1
+    },
+    {
+        "id": "librisqa_0001", 
+        "question": "What did the good hidalgo believe about the security in his city and the well-disposed inhabitants?",
+        "prediction": "The correct answer is B: He believed that justice was administered carefully in the city.",
+        "answer": 1
+    },
+        {
+        "id": "librisqa_0002", 
+        "question": "What was the reaction of Rodolfo and his companions towards the mother, daughter, and servant maid?",
+        "prediction": "The correct answer is C: They stared rudely and insolently.",
+        "answer": 2
+    },
+    {
+        "id": "librisqa_0003", 
+        "question": "What was the result of the communication of the thoughts and the resolution made by the companions?",
+        "prediction": "The correct answer is B: 'I am sorry, my dear, but I must go.'",
+        "answer": 1
+    }
+]

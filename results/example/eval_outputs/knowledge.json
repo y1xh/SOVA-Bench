@@ -1,0 +1,86 @@
+[
+    {
+        "id": "TriviaQA_0000",
+        "model_evaluation_result": "N",
+        "question": "Who was the man behind The Chipmunks?",
+        "prediction": "The man behind the Catch Me If You Can is Frank Abagnale, a con man who impersonated a pilot, a doctor, and a lawyer, among others, and was later caught by the FBI.",
+        "reference": "David Seville"
+    },
+    {
+        "id": "TriviaQA_0002",
+        "model_evaluation_result": "N",
+        "question": "Which Lloyd Webber musical premiered in the US on tenth December nineteen ninety-three?",
+        "prediction": "The musical premiere of La Bohème on tenth December nineteen ninety-three was at the Metropolitan Opera in New York City.",
+        "reference": "Sunset Boulevard"
+    },
+    {
+        "id": "TriviaQA_0003",
+        "model_evaluation_result": "N",
+        "question": "Who was the next British Prime Minister after Arthur Balfour?",
+        "prediction": "The next British Prime Minister after Theresa May will be Liz Truss.",
+        "reference": "Campbell-Bannerman"
+    },
+    {
+        "id": "TriviaQA_0010",
+        "model_evaluation_result": "Y",
+        "question": "What is the Japanese share index called?",
+        "prediction": "The Japanese share index, known as Nikkei, is a stock market index for the Tokyo Stock Exchange, tracking the performance of the top one hundred and twenty five most liquid and representative Japanese companies.",
+        "reference": "Nikkei"
+    },
+    {
+        "id": "TriviaQA_0000",
+        "model_evaluation_result": "N",
+        "question": "Who was the man behind The Chipmunks?",
+        "prediction": "The man behind the Catch Me If You Can is Frank Abagnale, a con man who impersonated a pilot, a doctor, and a lawyer, among others, and was later caught by the FBI.",
+        "reference": "David Seville"
+    },
+    {
+        "id": "TriviaQA_0002",
+        "model_evaluation_result": "N",
+        "question": "Which Lloyd Webber musical premiered in the US on tenth December nineteen ninety-three?",
+        "prediction": "The musical premiere of La Bohème on tenth December nineteen ninety-three was at the Metropolitan Opera in New York City.",
+        "reference": "Sunset Boulevard"
+    },
+    {
+        "id": "TriviaQA_0003",
+        "model_evaluation_result": "N",
+        "question": "Who was the next British Prime Minister after Arthur Balfour?",
+        "prediction": "The next British Prime Minister after Theresa May will be Liz Truss.",
+        "reference": "Campbell-Bannerman"
+    },
+    {
+        "id": "TriviaQA_0010",
+        "model_evaluation_result": "Y",
+        "question": "What is the Japanese share index called?",
+        "prediction": "The Japanese share index, known as Nikkei, is a stock market index for the Tokyo Stock Exchange, tracking the performance of the top one hundred and twenty five most liquid and representative Japanese companies.",
+        "reference": "Nikkei"
+    },
+    {
+        "id": "TriviaQA_0000",
+        "model_evaluation_result": "N",
+        "question": "Who was the man behind The Chipmunks?",
+        "prediction": "The man behind the Catch Me If You Can is Frank Abagnale, a con man who impersonated a pilot, a doctor, and a lawyer, among others, and was later caught by the FBI.",
+        "reference": "David Seville"
+    },
+    {
+        "id": "TriviaQA_0002",
+        "model_evaluation_result": "N",
+        "question": "Which Lloyd Webber musical premiered in the US on tenth December nineteen ninety-three?",
+        "prediction": "The musical premiere of La Bohème on tenth December nineteen ninety-three was at the Metropolitan Opera in New York City.",
+        "reference": "Sunset Boulevard"
+    },
+    {
+        "id": "TriviaQA_0003",
+        "model_evaluation_result": "N",
+        "question": "Who was the next British Prime Minister after Arthur Balfour?",
+        "prediction": "The next British Prime Minister after Theresa May will be Liz Truss.",
+        "reference": "Campbell-Bannerman"
+    },
+    {
+        "id": "TriviaQA_0010",
+        "model_evaluation_result": "Y",
+        "question": "What is the Japanese share index called?",
+        "prediction": "The Japanese share index, known as Nikkei, is a stock market index for the Tokyo Stock Exchange, tracking the performance of the top one hundred and twenty five most liquid and representative Japanese companies.",
+        "reference": "Nikkei"
+    }
+]

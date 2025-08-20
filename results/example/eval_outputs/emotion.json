@@ -1,0 +1,26 @@
+[
+    {
+        "id": "Ses01F_script02_2_F006",
+        "model_evaluation_result": true,
+        "is_answered": true,
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is angry.",
+        "reference": "Angry"
+    },
+    {
+        "id": "Ses01F_script02_2_F007",
+        "model_evaluation_result": false,
+        "is_answered": true,
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is angry.",
+        "reference": "Frustrated and sad"
+    },
+    {
+        "id": "Ses01F_script02_2_F008",
+        "model_evaluation_result": false,
+        "is_answered": true,
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is sad.",
+        "reference": "Angry"
+    }
+]

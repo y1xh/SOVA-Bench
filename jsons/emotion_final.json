@@ -12616,4 +12616,387 @@
     "choices": [
       "Frustrated and sad",
       "Excited and surprised",
-      "Angry
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 2
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script03_2_M036",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 2
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script03_2_M040",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 2
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro08_F022",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 3
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro08_M026",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 3
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro08_M028",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 3
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_F008",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 1
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_F021",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M000",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M001",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M011",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M012",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M013",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M017",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M018",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro02_M021",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_F008",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 3
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_M009",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 3
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_M017",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 1
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_M019",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 1
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_M028",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 1
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_impro07_M037",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 1
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_F010",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_F014",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M002",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M005",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M007",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M008",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M010",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  },
+  {
+    "Dataset": "IEMOCAP",
+    "Id": "Ses05M_script01_2_M012",
+    "Question": "What is the speaker's emotion?",
+    "choices": [
+      "Frustrated and sad",
+      "Excited and surprised",
+      "Angry",
+      "Happy",
+      "Fearful"
+    ],
+    "correct_idx": 0
+  }
+]

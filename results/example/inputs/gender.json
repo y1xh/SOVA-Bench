@@ -1,0 +1,26 @@
+[
+    {
+        "id": "common_voice_en_648456.mp3",
+        "question": "Detect the gender of the speaker in this audio file.",
+        "prediction": "Based on the speaker's voice, I would guess male.",
+        "answer": "Female"
+    },
+    {
+        "id": "common_voice_en_648457.mp3",
+        "question": "Detect the gender of the speaker in this audio file.",
+        "prediction": "Based on the speech, I believe the speaker's voice is male.",
+        "answer": "Female"
+    },
+    {
+        "id": "common_voice_en_648458.mp3",
+        "question": "Detect the gender of the speaker in this audio file.",
+        "prediction": "Based on the speaker's voice, I would guess male.",
+        "answer": "Female"
+    },
+    {
+        "id": "common_voice_en_31654618.mp3",
+        "question": "Detect the gender of the speaker in this audio file.",
+        "prediction": "Based on the speech, I believe the speaker is male.",
+        "answer": "Male"
+    }
+]

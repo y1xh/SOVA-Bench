@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Set proxy environment variables
-export http_proxy=http://127.0.0.1:7892
-export https_proxy=http://127.0.0.1:7892
-export HTTP_PROXY=http://127.0.0.1:7892
-export HTTPS_PROXY=http://127.0.0.1:7892
 
 # Define logging functions
 log_info() {
@@ -51,8 +46,8 @@ run_python_script "./utils/model_eval.py" \
   --input_file "./results/example/inputs/emotion.json" \
   --output_file "./results/example/eval_outputs/emotion.json" \
   --prompt_file "./prompts/emotion.txt" \
-  --api_key "" || exit 1
-
+  --api_key "your openai api key here" || exit 1
+  
 # Execute result reading script (adjusted to match parameter format)
 run_python_script "./utils/read_result_paralinguistic.py" \
   --input_file "./results/example/eval_outputs/emotion.json" || exit 1

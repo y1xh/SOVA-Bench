@@ -1,0 +1,29 @@
+[
+       {
+        "id": "squad_0000", 
+        "question": "The name of the NFL championship game is?",
+        "prediction": "The name of the NFL championship game is the Super Bowl.",
+        "answer": [
+            "super bowl"
+        ]
+    },
+    {
+        "id": "librisqa_0001", 
+        "question": "Which NFL team represented the AFC at Super Bowl 50?",
+        "prediction": "The Denver Broncos represented the AFC at Super Bowl 50.",
+        "answer": [
+            "denver broncos"
+        ]
+    },
+        {
+        "id": "librisqa_0002", 
+        "question": "Where did Super Bowl 50 take place?",
+        "prediction": "Super Bowl 50 was played on February seventh, twenty sixteen, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.",
+        "answer": [
+            [
+                "santa clara california",
+                "levis stadium"
+            ]
+        ]
+    }
+]

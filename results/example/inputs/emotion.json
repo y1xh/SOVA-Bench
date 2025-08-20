@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Ses01F_script02_2_F006",
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is angry.",
+        "answer": "Angry"
+    },
+    {
+        "id": "Ses01F_script02_2_F007",
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is angry.",
+        "answer": "Frustrated and sad"
+    },
+    {
+        "id": "Ses01F_script02_2_F008",
+        "question": "What is the speaker's emotion?",
+        "prediction": "The emotion that best matches the speaker's voice is sad.",
+        "answer": "Angry"
+    }
+]
