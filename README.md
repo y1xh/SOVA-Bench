@@ -11,6 +11,8 @@ SOVA_Bench dataset：https://huggingface.co/datasets/yixuan123/SOVA-Bench_Datase
 - [**Scripts**](#scripts)
 - [**Utils**](#utils)
 
+This repo and dataset are being refined, and we will continuously expand our datasets and tasks.
+
 ## Citation
 If you use the VoiceBench in your research, please cite the following paper:
 ```
